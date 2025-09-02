@@ -72,7 +72,7 @@
   #title {
   }
   body {
-    background-color: brown;
+    background-color: brown; 
   } 
   #description {
   }
