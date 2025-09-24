@@ -4,33 +4,33 @@
 <h1 id="title">CMulzSurveyForm</h1>
 <main>
 <p id="description">Thank you for taking the time to help us improve the platform</p>
-<h4>Name</h4>  
+<p>Name</p>  
 <form action="Chibesa" id="survey-form">
   <label id="name-label" for="name" >Enter your name:</label>
   <input id="name" name="Please fill in this field" required type="text" placeholder="Enter your name">
-  </form>
+  </form><br>
 
-<h4>Email</h4>
+<p>Email</p>
 <form action="mulengachibesa8@gmail.com" id="survey-form">
   <label for="email"Enter your email id="email-label">Enter your email:</label>
   <input id="email" name="Please fill in this field" required type="email"
   placeholder="Enter your email">
-  </form>
-<h4>Age(optional)</h4>
+  </form><br>
+<p>Age(optional)</p>
 <form action="21" id="survey-form">
   <label for="number"Age id="number-label">Age:</label>
   <input id="number" min="20" max=" 40" type="number"
   placeholder="Age">
-  </form>
-<h4>Which option best describes your current role</h4>
+  </form><br>
+<p>Which option best describes your current role</p>
 <form action="" id="survey-form">
   <select id="dropdown">
     <option value="student">Student</option>
     <option value="full-time worker">Full-time worker</option>
     </select>
   <input id="role" type="text"
-  placeholder="Select current role">
-<h4>Would you recommend CMulz to a friend?</h4>
+  placeholder="Select current role"><br>
+<p>Would you recommend CMulz to a friend?</p>
 <h4><label for="definitely"><input id="definitely" value="definitely" type="radio" name="group1"/>Definitely
 <input id="definitely" type="radio" value="definitely" name="group1"/>Definitely</label></h4>
 <h4><label for="maybe"><input id="maybe" value="maybe"    type="radio" name="group2"/>Maybe
