@@ -1,4 +1,4 @@
-<html>
+<html> 
 <title>CMulzSurveyForm</title>
   <body>
 <h1 id="title">CMulzSurveyForm</h1>
@@ -56,7 +56,7 @@
 <form action="">
   <textarea <input type="text" placeholder="Enter your comment here..."></textarea>
 <h5><button id="submit" type="submit">Submit</button></form></h5>
-<link rel="stylesheet" href="styles.css">
+
 
 
 
